@@ -1,5 +1,12 @@
 #!/bin/bash
 
+########
+# About: This script give the users who has the access for thr repo
+#Input: export the username and token
+# Owner : XXXXX
+#
+##########
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
